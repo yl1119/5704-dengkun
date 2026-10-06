@@ -1,0 +1,8 @@
+fusion_method: weighted
+bm25_results: results/tables/bm25_generated_retrieval_results.csv
+dense_results: results/tables/dense_generated_retrieval_results.csv
+questions_path: data/generated/questions.jsonl
+output_path: results/tables/hybrid_generated_weight_sweep.csv
+alpha_values: [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+top_k: 10
+k_values: [1, 3, 5, 10]

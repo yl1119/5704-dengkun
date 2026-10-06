@@ -1,0 +1,9 @@
+retriever: hybrid
+fusion_method: weighted
+bm25_results: results/tables/bm25_generated_retrieval_results.csv
+dense_results: results/tables/dense_generated_retrieval_results.csv
+output_path: results/tables/hybrid_generated_retrieval_results.csv
+score_normalization: min_max_per_query
+alpha: 0.5
+rrf_k: 60
+top_k: 10

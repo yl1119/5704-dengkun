@@ -1,0 +1,7 @@
+retriever: hybrid
+fusion_method: rrf
+bm25_results: results/tables/bm25_generated_retrieval_results.csv
+dense_results: results/tables/dense_generated_retrieval_results.csv
+output_path: results/tables/hybrid_rrf_generated_retrieval_results.csv
+rrf_k: 60
+top_k: 10

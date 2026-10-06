@@ -1,0 +1,8 @@
+retriever: bm25
+corpus_path: data/generated/course_chunks.jsonl
+questions_path: data/generated/questions.jsonl
+output_path: results/tables/bm25_generated_retrieval_results.csv
+k1: 1.5
+b: 0.75
+top_k: 10
+seed: 42

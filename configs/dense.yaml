@@ -1,0 +1,10 @@
+retriever: dense
+corpus_path: data/generated/course_chunks.jsonl
+questions_path: data/generated/questions.jsonl
+output_path: results/tables/dense_generated_retrieval_results.csv
+embedding_model: BAAI/bge-m3
+similarity: cosine
+normalize_embeddings: true
+batch_size: 32
+top_k: 10
+seed: 42
