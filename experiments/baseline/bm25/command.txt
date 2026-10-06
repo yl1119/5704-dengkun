@@ -1,0 +1,2 @@
+python scripts/run_bm25.py --config configs/bm25.yaml
+python scripts/evaluate_retrieval.py --config configs/evaluation.yaml --results results/tables/bm25_retrieval_results.csv

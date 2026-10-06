@@ -1,0 +1,4 @@
+{"question_id":"Q-001","question":"什么是栈？它遵循什么访问顺序？","question_type":"term_definition","gold_chunk_ids":["CHUNK-002"],"gold_answer":"栈是一种只允许在一端插入和删除的线性表，遵循后进先出。","difficulty":"easy","annotation_notes":"定义和访问顺序均由 CHUNK-002 支持。","version":"sample-v001"}
+{"question_id":"Q-002","question":"为什么队列适合描述先到先处理的过程？","question_type":"principle_explanation","gold_chunk_ids":["CHUNK-003"],"gold_answer":"因为队列遵循先进先出，先进入的元素先从队头删除。","difficulty":"easy","annotation_notes":"核心依据是先进先出。","version":"sample-v001"}
+{"question_id":"Q-003","question":"二叉树中序遍历依次访问哪些部分？","question_type":"process_steps","gold_chunk_ids":["CHUNK-004"],"gold_answer":"依次访问左子树、根节点、右子树。","difficulty":"easy","annotation_notes":"顺序由 CHUNK-004 直接给出。","version":"sample-v001"}
+{"question_id":"Q-004","question":"栈和队列在元素访问顺序上有什么区别？","question_type":"confusable_concepts","gold_chunk_ids":["CHUNK-002","CHUNK-003"],"gold_answer":"栈后进先出，队列先进先出。","difficulty":"easy","annotation_notes":"需要同时检索栈和队列两个片段。","version":"sample-v001"}

@@ -1,0 +1,10 @@
+experiment_id: EXP-002
+retriever: dense
+corpus_version: sample-v001
+test_version: sample-v001
+embedding_model: BAAI/bge-m3
+similarity: cosine
+normalize_embeddings: true
+top_k: 10
+batch_size: 32
+seed: 42

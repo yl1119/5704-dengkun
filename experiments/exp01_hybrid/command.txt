@@ -1,0 +1,2 @@
+python scripts/run_hybrid.py --config configs/hybrid.yaml
+python scripts/evaluate_retrieval.py --config configs/evaluation.yaml --results results/tables/hybrid_retrieval_results.csv

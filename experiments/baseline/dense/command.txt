@@ -1,0 +1,2 @@
+python scripts/run_dense.py --config configs/dense.yaml
+python scripts/evaluate_retrieval.py --config configs/evaluation.yaml --results results/tables/dense_retrieval_results.csv

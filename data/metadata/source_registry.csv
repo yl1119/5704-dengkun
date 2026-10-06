@@ -1,0 +1,5 @@
+source_id,course,document_title,source_type,source_url,license,access_date,version,local_path,notes
+SRC-001,数据结构与算法基础,MIT 6.006 Introduction to Algorithms syllabus and calendar,公开课程大纲与主题参考,https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/syllabus/,MIT OpenCourseWare terms; only topic reference used,2026-10-06,course-corpus-v001,不下载或提交讲义正文,用于确定算法分析、排序、树、哈希、图、最短路径和动态规划范围
+SRC-002,数据结构与算法基础,Princeton Algorithms and Data Structures cheatsheet,公开课程主题与复杂度参考,https://algs4.cs.princeton.edu/cheatsheet/,请按网站许可和使用条款核验; only topic reference used,2026-10-06,course-corpus-v001,不复制网页正文,用于核对排序、图算法和复杂度主题
+SRC-003,数据结构与算法基础,OpenDSA Data Structures and Algorithms modules,公开教材主题参考,https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Status.html,请按项目许可和使用条款核验; only topic reference used,2026-10-06,course-corpus-v001,不复制模块正文,用于补充数据结构与算法课程主题
+SRC-004,数据结构与算法基础,Project-authored course notes,项目自撰知识片段,local project content,项目许可证待确定,2026-10-06,course-corpus-v001,data/generated/course_chunks.jsonl,960条正文由脚本生成并需人工复核
